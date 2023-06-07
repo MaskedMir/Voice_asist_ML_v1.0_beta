@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="speech_recognition" />
+          <option value="object.__getitem__" />
+          <option value="voice_asist_v0_2.voic_rec_v2.play_failure_phrase" />
+          <option value="voice_asist_v0_2.voic_rec_v2.search_for_term_on_google" />
+          <option value="voice_asist_v0_2.voic_rec_v2.play_farewell_and_quit" />
+          <option value="voice_asist_v0_2.voic_rec_v2.play_greetings" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
